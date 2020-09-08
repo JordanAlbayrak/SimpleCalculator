@@ -1,0 +1,6 @@
+C:\Users\jorda\source\repos\CalculatorEngine\CalculatorEngine\bin\Release\CalculatorEngine.dll
+C:\Users\jorda\source\repos\CalculatorEngine\CalculatorEngine\bin\Release\CalculatorEngine.pdb
+C:\Users\jorda\source\repos\CalculatorEngine\CalculatorEngine\obj\Release\CalculatorEngine.csprojAssemblyReference.cache
+C:\Users\jorda\source\repos\CalculatorEngine\CalculatorEngine\obj\Release\CalculatorEngine.csproj.CoreCompileInputs.cache
+C:\Users\jorda\source\repos\CalculatorEngine\CalculatorEngine\obj\Release\CalculatorEngine.dll
+C:\Users\jorda\source\repos\CalculatorEngine\CalculatorEngine\obj\Release\CalculatorEngine.pdb

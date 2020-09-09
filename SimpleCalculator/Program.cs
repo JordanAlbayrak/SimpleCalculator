@@ -63,7 +63,7 @@ namespace SimpleCalculator
                             wordOperation = "raised";
                             break;
                         default:
-                            throw new InvalidOperationException("Specified operation is not recognized, please try again and choose from the list.");
+                            throw new InvalidOperationException("Specified operation is not recognized, please try again and choose from the list .");
                     }
 
 
@@ -71,9 +71,9 @@ namespace SimpleCalculator
                     sb.AppendFormat("The value {0:N} {1} by the value {2:N} results in {3:N} ", firstNumber, wordOperation, secondNumber, result);
 
 
-                    Console.WriteLine("------------Numeric Format------------");
+                    Console.WriteLine("-------------Numeric Format------------");
                     Console.WriteLine("{0:N} {1} {2:N} = {3:N} ", firstNumber, operation, secondNumber, result);
-                    Console.WriteLine("-------------Typed Format-------------");
+                    Console.WriteLine("--------------Typed Format-------------");
                     Console.WriteLine(sb);
                     Console.ReadLine();
 
